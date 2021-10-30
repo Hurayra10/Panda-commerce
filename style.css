@@ -1,5 +1,6 @@
 .container{
     margin-bottom: 70px;
+   
 }
 
 
@@ -23,3 +24,36 @@
 
 }
 
+/* Categories */
+.cat-1, .cat-2, .cat-3{
+    padding: 10px 30px;
+    color: #fff;
+    border-radius: 10px;
+}
+.cat-1{
+    background-color: #ff5898;
+}
+.cat-2{
+    background-color: #17e956;
+}
+.cat-3{
+    background-color: #5052d6;
+}
+.categories img{
+    width: 100px;
+}
+/* -----shoes------ */
+
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#contact{
+    height: 300PX;
+}
+#contact h6{
+    color:gray;
+}
+footer{
+    text-align: center;
+}
